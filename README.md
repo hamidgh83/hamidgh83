@@ -25,7 +25,7 @@
 <p align="center">
 <a href="https://dev.to/hamidgh83" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hamidgh83" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/ghorashi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ghorashi" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/hamidgh83" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hamidgh83" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/2671891/hamid-ghorashi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hamidgh83" height="30" width="30" /></a>
 </p>
 <!--
 **hamidgh83/hamidgh83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
