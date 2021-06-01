@@ -4,15 +4,26 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hamidgh83" alt="hamidgh83" /> </p>
 
 <br/>
+<p align="center"><strong>The things I am working</strong></p>
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  <img src="./assets/html5.svg" alt="html5" height="40"/>
+  <img src="./assets/css-3.svg" alt="css-3" height="40"/>
+  <img src="./assets/javascript.svg" alt="javascript" height="40"/>
+  <img src="./assets/sass.svg" alt="sass" height="40"/> 
+  <img src="./assets/php.svg" alt="php" height="40"/> 
+  <img src="./assets/mysql.svg" alt="mysql"  height="40"/>
+  <br/>
+  <br/>
+  <img src="./assets/docker.svg" alt="docker" height="40"/> 
+  <img src="./assets/git.svg" alt="git" height="40"/>
+  <img src="./assets/ubuntu.svg" alt="ubuntu" height="40"/>
+</p>
+<br/>
+<br/>
+<p align="center"><strong>The things I am learning</strong></p>
+<p align="center">
+  <img src="./assets/python.svg" alt="python" height="40"/>
+  <img src="./assets/react.svg" alt="react" height="40"/>
 </p>
 <br/>
 <br/>
