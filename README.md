@@ -3,8 +3,10 @@
 Senior PHP Developer
 
 
-*   ✉️  You can contact me at [h.ghorashi@gmail.com](mailto:h.ghorashi@gmail.com)
-*   🚀  I'm currently working on [PowerDMARC](http://powerdmarc.com)
+*   💼  I'm currently working on [PowerDMARC](https://powerdmarc.com/about/)
+*   📦  Explore my open-source packages on [Packagist](https://packagist.org/packages/jetcod/)
+*   ✍️  Read my articles on [Medium](https://medium.com/@h.ghorashi)
+*  👥 Follow me on X (Twitter) for PHP and Laravel tips [@codefern](https://www.x.com/codefern)
 
 Skills 
 ------
